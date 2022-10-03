@@ -3,7 +3,7 @@ title:  "다낭성 난소 증후군과 갑상선 기능 저하증"
 excerpt: "겪고 있는 병에 대해 내가 알기"
 
 categories:
-  - [health]
+  - health
 tags:
   - [health]
 
